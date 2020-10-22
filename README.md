@@ -40,6 +40,14 @@ Data points: ![Data Points](https://storage.googleapis.com/file-in.appspot.com/f
 
 Different types:![Different Types](https://cloud-3xmjrbr9p.vercel.app/0screen_shot_2020-10-22_at_7.42.56_pm.png)
 
+**Supervised Learning** - Pre-created categorizations for data. You can do things like classification: (is this an apple or a pear?) (regression, stock prices, etc).
+
+**Unsuperized Learning** - Data that doesn't have labels / groups don't exist. _Clustering_ means we need machine to create these groups. 
+
+**Reinforcement Learning** - Teaching machines through trial and error. It learns after trialing with data many times. This is seen in skill acquisition like playing chess.  
+
+All these processes are trying to do are ultimately get better at predicting. 
+
 
 
 
