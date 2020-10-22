@@ -36,5 +36,10 @@ Project Path: ![Project Path](https://cloud-qumfiry5u.vercel.app/0screen_shot_20
 
 Data points: ![Data Points](https://storage.googleapis.com/file-in.appspot.com/files/aRZ-GJHqkD.png)
 
+### vi. Types of Machine Learning
+
+Different types:![Different Types](https://cloud-3xmjrbr9p.vercel.app/0screen_shot_2020-10-22_at_7.42.56_pm.png)
+
+
 
 
