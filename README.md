@@ -1,15 +1,15 @@
 # ZTM-ML-Notes
 Notes on Daniel Bourke + Andrei Neagoi's ML Course. 
 
-## Machine Learning 101
+## 1) Machine Learning 101
 
-### What is the goal of Machine Learning? 
+### a. What is the goal of Machine Learning? 
 
 **Computers** were brought into this world to make completing tasks more efficient for humans. 
 
 The goal of **machine learning** is to make computers act more and more like humans. The more they act like humans, the more helpful they are for humans! 
 
-### AI/Machine Learning/Data Science
+### b. AI/Machine Learning/Data Science
 
 **Artificial Intelligence** - human intelligence exhibited by machines.
 
@@ -23,5 +23,5 @@ The goal of **machine learning** is to make computers act more and more like hum
 
 **Data Science** - Simply put, analyzing data. There's a lot of overlap w. ML. 
 
-### Machine Learning Playground Exercise: https://teachablemachine.withgoogle.com/
+### c. Machine Learning Playground Exercise: https://teachablemachine.withgoogle.com/
 
