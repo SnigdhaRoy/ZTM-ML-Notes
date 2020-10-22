@@ -12,5 +12,6 @@ The goal of **machine learning** is to make computers act more and more like hum
 ### AI/Machine Learning/Data Science
 
 **Artificial Intelligence** - human intelligence exhibited by machines.
+
 **Narrow AI** - Machines can be just as good or even better than humans at certain tasks. Ex: detecting heart disease, playing chess, etc. Narrow AI is only good at one specific task extremely well. 
 
