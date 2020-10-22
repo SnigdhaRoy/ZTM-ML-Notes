@@ -30,7 +30,7 @@ The goal of **machine learning** is to make computers act more and more like hum
 
 Machine Learning came along to automate and help us make data-driven decisions more efficiently. This was due to the growth in data and the improvements of CPU, GPU, and computation. 
 
-Format: ![Project Path](https://cloud-qumfiry5u.vercel.app/0screen_shot_2020-10-22_at_6.49.40_pm.png)
+Project Path: ![Project Path](https://cloud-qumfiry5u.vercel.app/0screen_shot_2020-10-22_at_6.49.40_pm.png)
 
 
 
