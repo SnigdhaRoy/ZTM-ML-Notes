@@ -32,5 +32,9 @@ Machine Learning came along to automate and help us make data-driven decisions m
 
 Project Path: ![Project Path](https://cloud-qumfiry5u.vercel.app/0screen_shot_2020-10-22_at_6.49.40_pm.png)
 
+### Oversimplified YouTube Recommendation Model: https://ml-playground.com/#
+
+Data points: ![Data Points] (https://storage.googleapis.com/file-in.appspot.com/files/aRZ-GJHqkD.png)
+
 
 
