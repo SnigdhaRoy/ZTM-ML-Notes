@@ -48,6 +48,19 @@ Different types:![Different Types](https://cloud-3xmjrbr9p.vercel.app/0screen_sh
 
 All these processes are trying to do are ultimately get better at predicting. 
 
+## ML and Data Science Framework 
+
+Machine Learning comes in three parts: data modeling, data collection, and deployment. 
+
+First, create a framework. Then, match it to DS and ML tools. Lastly, we'll learn by doing. 
+
+1) Determine what problem we're trying to solve. (supervised or unsupervised)
+2) What kind of data do we have? (structured or unstructured?)
+3) What does success mean to us? (metrics in where we want our models to be at of an accuracy - somethimg to aim for). 
+4) Features - which ones are most useful? Bodyweight is a numerical feature (ex: they're more likely to have heart disease. A ML model algorithm's goal is to turn this data into specific people. 
+5) Modeling - Based on our problem and data, which model should we use."
+6) Experimentation - how can we improve? what can we try next?
+
 
 
 
