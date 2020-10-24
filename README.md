@@ -137,3 +137,25 @@ Great performance on the training data but poor performance on test data means y
 Another form of overfitting can come in the form of better performance on test data than training data. This may mean your testing data is leaking into your training data (incorrect data splits) or you've spent too much time optimizing your model for the test set data. Ensure your training and test datasets are kept separate at all times and avoid optimizing a models performance on the test set (use the training and validation sets for model improvement).
 
 Poor performance once deployed (in the real world) means there’s a difference in what you trained and tested your model on and what is actually happening. Ensure the data you're using during experimentation matches up with the data you're using in production.
+
+### vi. Experimentation + Tools
+
+Machine Learning projects become tool-matching projects. (what have we tried? what else can we try?) 
+
+Tools: 
+
+- Anaconda, the hardware store for ML and DS tools 
+- Jupyter Notebooks, to write Python code and communicate our work. All our projects are done here.
+- Pandas, Matplot Lib, NumPy; data analysis 
+- Tensor Flow, Scikit Learn, Pytorch; building ML models 
+
+Tools:![tools](https://storage.googleapis.com/file-in.appspot.com/files/kmArbvxVN5.png)
+
+
+
+
+
+
+
+
+
