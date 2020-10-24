@@ -85,6 +85,6 @@ Static Data:![Static Data](https://storage.googleapis.com/file-in.appspot.com/fi
 
 **Streaming Data** - Data that changes over times. For example, say you wanted to predict how stock prices change depending on news headlines, you'd be working with streaming data since news headlines update constantly. Most of the work you do in practice will start with static data. But once your efforts show more results and you learn, you'll soon be working with streaming data. 
 
-Streaming Data:![Streaming Data]https://storage.googleapis.com/file-in.appspot.com/files/6r3dy5LJpz.png)
+Streaming Data:![Streaming Data](https://storage.googleapis.com/file-in.appspot.com/files/6r3dy5LJpz.png)
 
 
