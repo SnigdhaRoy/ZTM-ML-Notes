@@ -87,4 +87,12 @@ Static Data:![Static Data](https://storage.googleapis.com/file-in.appspot.com/fi
 
 Streaming Data:![Streaming Data](https://storage.googleapis.com/file-in.appspot.com/files/6r3dy5LJpz.png)
 
+### iii. Types of Evaluation
+
+An evaluation metric is a measure of how well a machine learning algorithm predicts the future. Depending on the task, your evaluation metric may change. Say for example, it's to detect heart disease, you'll want a model that calculates with at least 99% accuracy since that's a very important task. Also, if you're doing ML for companies, it'll also depend on what percentage they are comfortable with the evaluation metric being. 
+
+Evaluation Metric:![Evaluation Metric](https://storage.googleapis.com/file-in.appspot.com/files/XgNqVpaz2X.png)
+
+
+
 
