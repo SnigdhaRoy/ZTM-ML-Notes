@@ -111,4 +111,14 @@ Splitting Data:![Different features of data](https://storage.googleapis.com/file
 
 ### v. Picking Model, Tuning, and Comparison
 
+3 Parts to Modelling:![parts](https://storage.googleapis.com/file-in.appspot.com/files/S2POHB19bK.png)
 
+Choosing a Model (Training Data):![choosing](https://storage.googleapis.com/file-in.appspot.com/files/E1e34i_3hc.png)
+
+Tuning Data is essentially adjusting and tuning properties to create the best trained data as possible. ML models have hyperparameters you can adjust. Goal of tuning hyperparameters is to improve the model's performance. 
+
+When comparing models, you want to make sure that the training set has a close evaluation to the test set:![comparing](https://storage.googleapis.com/file-in.appspot.com/files/M7xUf9cmo3.png)
+
+Here's how you can tell if data is underfitting, overfitting, or just right (Goldilock's Zone):![test sets](https://storage.googleapis.com/file-in.appspot.com/files/5GckPoX_dX.png)
+
+Fixes for overfitting / underfitting:![fixes](https://storage.googleapis.com/file-in.appspot.com/files/yXLqvXlJ9C.png)
