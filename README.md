@@ -93,6 +93,22 @@ An evaluation metric is a measure of how well a machine learning algorithm predi
 
 Evaluation Metric:![Evaluation Metric](https://storage.googleapis.com/file-in.appspot.com/files/XgNqVpaz2X.png)
 
+There are different types of metrics:![DIfferent metrics](https://storage.googleapis.com/file-in.appspot.com/files/K_zLg4x3A7.png)
 
+### iv. Features in Data
+
+Features are different forms of data. They refer to forms within structured and unstructured data. For example, if predicting heart disease, features would be variables like body weight, sex, blood pressure, etc. Using feature variables, we can find out the target variables (whether or not someone has heart disease). 
+
+Different features of data:![Different features of data](https://storage.googleapis.com/file-in.appspot.com/files/Ix0EyswkOf.png)
+
+**Feature Coverage** - How many samples have the same features? Ideally, every sample has the same features
+
+### v. Modelling -- Splitting Data 
+
+It's important that essentially machines learn concepts and are able to apply them to a multitude of similar situations versus memorizimg concepts and final products -- since that isn't helpful for application and retention. 
+
+Splitting Data:![Different features of data](https://storage.googleapis.com/file-in.appspot.com/files/cTA7rkruX6.png)
+
+### v. Picking Model, Tuning, and Comparison
 
 
