@@ -80,3 +80,5 @@ Learning types:![Learning Types](https://storage.googleapis.com/file-in.appspot.
 Data types:![Data Types](https://storage.googleapis.com/file-in.appspot.com/files/xveUATERuo.png)
 
 
+
+
