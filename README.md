@@ -48,7 +48,7 @@ Different types:![Different Types](https://cloud-3xmjrbr9p.vercel.app/0screen_sh
 
 All these processes are trying to do are ultimately get better at predicting. 
 
-## ML and Data Science Framework 
+## 2) ML and Data Science Framework 
 
 Machine Learning comes in three parts: data modeling, data collection, and deployment. 
 
@@ -61,6 +61,22 @@ First, create a framework. Then, match it to DS and ML tools. Lastly, we'll lear
 5) Modeling - Based on our problem and data, which model should we use."
 6) Experimentation - how can we improve? what can we try next?
 
+### i. Types of ML Problems 
 
+First, we should clarify for what types of problems we don't need ML to solve (since AI isn't the answer to everything): when a simple hand-coded instruction-based systen will work. For example, if you want to create your favorite dish, if you already know what you need in order to create the result and how to get there, you shouldn't and it wouldn't make sense to use ML to gather the processes. 
+
+Main types of machine learning: supervised learning, unsupervised learning, transfer learning, reinforced learning. These are the most common. 
+
+Transfer learning is when a machine is learning what another machine knows. 
+
+Learning types:![Learning Types](https://storage.googleapis.com/file-in.appspot.com/files/rewmCPZnIK.png)
+
+### ii. Types of Data 
+
+**Structured data** - what we see in an excel file, such as rows and columns of different features and records. 
+
+**Unstructured data** - images, natural language text, transcribed phone calls, video calls, etc. 
+
+Data types:![Data Types](https://storage.googleapis.com/file-in.appspot.com/files/xveUATERuo.png)
 
 
