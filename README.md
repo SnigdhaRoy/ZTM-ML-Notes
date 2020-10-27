@@ -154,3 +154,29 @@ Tools:![tools](https://storage.googleapis.com/file-in.appspot.com/files/kmArbvxV
 ## 3) Python
 
 The Python exercises are more hands-on so I can't exactly share -- would suggest learning fundamentals on CodeAcademy. I'll be adding repls of some basic exercises for reference as much as I can if it helps at all. 
+
+https://repl.it/@SnigdhaRoy/OurFirstPythonProgram
+
+https://repl.it/@SnigdhaRoy/Operator-Precedence
+
+https://repl.it/@SnigdhaRoy/Variables
+
+https://repl.it/@SnigdhaRoy/Expressions-vs-Statements#main.py
+
+https://repl.it/@SnigdhaRoy/Augmented-Assignment-Operator
+
+https://repl.it/@SnigdhaRoy/Strings
+
+https://repl.it/@SnigdhaRoy/Escape-Sequences
+
+https://repl.it/@SnigdhaRoy/string-formatting
+
+https://repl.it/@SnigdhaRoy/string-indexes#main.py
+
+https://repl.it/@SnigdhaRoy/Built-In-Functions-Methods
+
+https://repl.it/@SnigdhaRoy/Booleans
+
+https://repl.it/@SnigdhaRoy/Type-Conversion
+
+
