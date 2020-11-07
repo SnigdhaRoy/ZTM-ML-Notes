@@ -153,7 +153,7 @@ Tools:![tools](https://storage.googleapis.com/file-in.appspot.com/files/kmArbvxV
 
 ## 3) Python
 
-The Python exercises are more hands-on so I can't exactly share -- would suggest learning fundamentals on CodeAcademy. I'll be adding repls of some basic exercises for reference as much as I can if it helps at all. 
+The Python exercises are more hands-on so I can't exactly share -- would suggest learning fundamentals on CodeAcademy. I'll be adding repls of some basic exercises for reference as much as I can if it helps. 
 
 https://repl.it/@SnigdhaRoy/OurFirstPythonProgram
 
